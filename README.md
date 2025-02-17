@@ -1,0 +1,1 @@
+This repository contains a simple SQL query that demonstrates an error caused by using a reserved keyword as a column alias.  The `bug.sql` file shows the erroneous query.  The `bugSolution.sql` file provides a corrected version that uses a valid alias. This is a common error for SQL beginners. This example highlights the importance of checking SQL keywords to avoid such errors.
